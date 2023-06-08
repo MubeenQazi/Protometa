@@ -4,7 +4,7 @@
 </h2>
 
 
-![andromeda-light](https://demo.gethugothemes.com/thumbnails/andromeda-light.png)
+![Protometa](https://github.com/MubeenQazi/Protometa/blob/main/Screenshot%202023-06-08%20061531.png)
 
 
 ## 🔑Key Features
