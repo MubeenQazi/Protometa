@@ -1,6 +1,6 @@
 <h1 align=center>Protometa</h1>
 <p align=center>Protometa is a SAAS template for Nextjs</p>
-<h2 align="center"> <a target="_blank" href="https://protometa.vercel.app/" rel="nofollow">👀Demo</a> | <a target="_blank" href="https://pagespeed.web.dev/analysis/https-protometa-vercel-app/3qy7bhk7gj?form_factor=desktop" rel="nofollow">Google PageSpeed</a>
+<h2 align="center"> <a target="_blank" href="https://protometa.vercel.app/" rel="nofollow">👀Demo</a> | <a target="_blank" href="https://pagespeed.web.dev/analysis/https-protometa-vercel-app/g11mvj72gv?form_factor=desktop" rel="nofollow">Google PageSpeed</a>
 </h2>
 
 
